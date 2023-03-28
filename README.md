@@ -1,2 +1,2 @@
-# Programming-Languages
+# Programming Languages
 Activities
